@@ -12,9 +12,7 @@ include("includes/main.php");
 
   <!-- Cover -->
   <main>
-    <link rel="stylesheet" href="styles/style.css">
-    <link rel="stylesheet" href="styles/backend.css">
-    <link rel="stylesheet" href="styles/bootstrap.min.css">
+    
     <div class="hero">
       <a href="shop.php" class="btn1">View all products
 </a>
